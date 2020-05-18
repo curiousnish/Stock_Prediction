@@ -4,3 +4,7 @@ This project describes the use of Machine Learning models to train time series d
 1. [Linear regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
 2. [Ridge regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Ridge.html)
 3. [Lasso regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Lasso.html)
+
+## Running the project
+- Create virtual environment for the project
+`virtualenv env`
