@@ -7,4 +7,3 @@ This project describes the use of Machine Learning models to train time series d
 
 ## Running the project
 - Create virtual environment for the project
-`virtualenv env`
