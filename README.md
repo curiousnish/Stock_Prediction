@@ -6,4 +6,5 @@ This project describes the use of Machine Learning models to train time series d
 3. [Lasso regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Lasso.html)
 
 ## Running the project
-- Create virtual environment for the project
+- Install the dependencies (if not installed already)
+- Run the Jupyter notebook
